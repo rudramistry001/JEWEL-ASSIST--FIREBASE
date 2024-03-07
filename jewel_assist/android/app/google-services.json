@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714082287468",
+    "project_id": "jewel-assist-e3d9c",
+    "storage_bucket": "jewel-assist-e3d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714082287468:android:2221dadea6946cb157bd49",
+        "android_client_info": {
+          "package_name": "com.example.jewel_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnpTtGGPRtOvE5_lLGB4JS7q31KiWThx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
